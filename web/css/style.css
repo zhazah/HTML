@@ -1,0 +1,51 @@
+.control {
+	display:block;
+	width:50px;
+	height:50px;
+	color:#fff;
+	top:50%;
+	margin-top:-25px;
+	cursor:pointer;
+	z-index:5;
+	position:absolute;
+	font-size:48px;
+}
+.control.left {
+	left:5%;
+}
+.control.right {
+	right:5%;
+}
+.dots {
+	display:block;
+	position:absolute;
+	text-align:center;
+	bottom:30px;
+	z-index:5;
+	width:100%;
+}
+.dots span {
+	display:inline-block;
+	width:10px;
+	height:10px;
+	background:#fff;
+	position:relative;
+	border-radius:5px;
+	cursor:pointer;
+	margin:0 10px;
+}
+.dots span.active {
+	background:#f00;
+}
+.csk img {
+	width:600px;
+	height:360px;}
+	
+.csk div{width:600px;
+		 height:360px;
+         float:left;}
+		 
+.yishupm img{
+	width:700px;
+	height:420px;
+	float:left}

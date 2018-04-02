@@ -1,0 +1,105 @@
+/* CSS Document */
+
+.ding{ border:0px #FF0000 solid;
+width:70%;
+height:400px;
+margin:0 auto}
+.shouye{
+	 border:0px #FF0000 solid;
+width:80%;
+height:50px;
+margin:0 auto;
+margin-top:10px;
+}
+.xiqufenlei{
+		 border:0px #FF0000 solid;
+width:80%;
+height:40px;
+margin-left:190px;
+
+margin-top:10px}
+.xiqufenlei a{
+	text-decoration:none;
+	color:#CCC}
+.xiqufenleiz{
+	margin-left:20px}
+.zhuyemian{
+	 border:0px #FF0000 solid;
+width:80%;
+height:500px;
+margin:0 auto;
+margin-top:10px}
+
+.xiazuo{
+	 border:0px #FF0000 solid;
+width:10%;
+height:600px;
+margin-left:190px;
+margin-top:10px;
+float:left}
+.xiazhong{
+	 border:0px #FF0000 solid;
+width:58%;
+height:600px;
+float:left;
+margin-top:10px;
+margin-left:10px}
+.xiayou{
+	 border:1px #FF0000 solid;
+width:10%;
+height:600px;
+margin-left:10px;
+margin-top:10px;
+float:left}
+
+.zuixia{
+	 border:0px #FF0000 solid;
+width:100%;
+height:100px;
+margin:0 auto;
+margin-top:10px;
+float:left;
+
+background-color:#640000}
+.shouye ul li{
+	list-style:none;
+	float:left}
+.shouye ul li a{
+	text-align:center;
+	text-decoration:none;
+	color:#000;
+	
+	width:88px;
+	height:29px;
+	display:block;
+	line-height:29px;
+	margin-left:20px;
+	list-style-image:url(../images/ic_msg.gif);
+	font-size:24px;
+	font-family:"华文隶书"}
+.shouye ul li a:hover{
+	background:url(../images/hoverw.png);
+	color:#0FF;
+	font-size:36px}	
+.shouye ul li a.ashouye{
+	background:url(../images/hoverw.png)}
+.xiazuo ul li{
+	list-style:none;
+	border-bottom:1px #999999 solid;
+	
+	line-height:45px}
+.xiazuo ul li a{
+	text-decoration:none;
+	color:#000;
+	display:block;
+	font-size:24px;
+	font-family:"华文行楷";
+	margin-left:10px
+	}
+.xiazuo ul li a:hover{
+	background-color:#666;
+	color:#F00;
+	font-size:24px}	
+.zuixia a{
+	text-decoration:none;
+	color:#999}					
